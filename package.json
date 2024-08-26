@@ -13,6 +13,7 @@
     "expo": "~51.0.5",
     "expo-status-bar": "~1.12.1",
     "native-base": "^3.4.28",
+    "pti": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-native": "0.75.2",
